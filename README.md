@@ -1,7 +1,7 @@
 # Bar
 Inventory management software to handle daily wise sales ,profits,expenditure for the Bar
 
-feautures of the application :
+features of the application :
 ==============================
 1.Daily wise sales sheet representation
 2.analysing the daily wise profits
